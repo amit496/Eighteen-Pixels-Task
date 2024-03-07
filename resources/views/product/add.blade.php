@@ -44,7 +44,7 @@
                                     </div>
                                     <div class="row mb-3">
                                         <div class="col-lg-12">
-                                            <input type="number" class="form-control" name="customerqty" id="customerqty" value="{{ old('customerqty') }}"  placeholder="Enter Customer Name" autocomplete="off" required>
+                                            <input type="number" class="form-control" name="customerqty" id="customerqty" value="{{ old('customerqty') }}"  placeholder="Enter Customer Qty" autocomplete="off" required>
                                         </div>
                                     </div>
                                     <div class="row mb-2">
